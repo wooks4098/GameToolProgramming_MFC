@@ -1,0 +1,5 @@
+﻿  Project1.cpp
+d:\대학\2학년 2학기\게임툴프로그래밍\3주차\project1\project1.cpp(157): error C2664: 'void ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::Format(UINT,...)': 인수 1을(를) 'const char [20]'에서 'const wchar_t *'(으)로 변환할 수 없습니다.
+  d:\대학\2학년 2학기\게임툴프로그래밍\3주차\project1\project1.cpp(157): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+d:\대학\2학년 2학기\게임툴프로그래밍\3주차\project1\project1.cpp(161): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+d:\대학\2학년 2학기\게임툴프로그래밍\3주차\project1\project1.cpp(161): fatal error C1057: 매크로 확장에서 예기치 않은 파일의 끝이 나타났습니다.
