@@ -1,0 +1,4 @@
+﻿  실습.cpp
+d:\대학\2학년 2학기\게임툴프로그래밍\4주차\실습\실습.cpp(70): warning C4477: 'wprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+d:\대학\2학년 2학기\게임툴프로그래밍\4주차\실습\실습.cpp(70): warning C4477: 'wprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'UINT'입니다.
+  실습.vcxproj -> D:\대학\2학년 2학기\게임툴프로그래밍\4주차\Debug\실습.exe
